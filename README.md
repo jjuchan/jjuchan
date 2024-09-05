@@ -1,6 +1,7 @@
 <div align="center">
 
-![jjuchan](https://capsule-render.vercel.app/api?section=header&text=안녕하세요%20백엔드%20개발자%20윤주찬입니다%20🙋‍♀️%20&fontSize=40&color=auto&height=300&section=wave)
+![jjuchan](https://capsule-render.vercel.app/api?section=header&text=안녕하세요%20백엔드%20개발자%20윤주찬입니다%20🙋‍♀️%20&fontSize=40&color=auto&height=300)
+
 
 
 
