@@ -20,10 +20,6 @@
 </a>
 
 
-<h2> 🧮 Status </h2>
-
-![jjuchan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjuchan&show_icons=true&theme=dark&count_private=true)
-
 <br>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=yjc7241)](https://solved.ac/yjc7241)
