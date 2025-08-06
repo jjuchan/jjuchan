@@ -38,3 +38,20 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yjc7241)](https://solved.ac/yjc7241/)
 
 </div>
+
+---
+
+### 🔥 GitHub Stats
+
+<div align="center">
+
+  <!-- 깃허브 통계 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=jjuchan&show_icons=true&theme=default" />
+
+  <!-- 가장 많이 사용한 언어 -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjuchan&layout=compact&theme=default" />
+
+</div>
+
+---
+
