@@ -54,7 +54,7 @@
 ---
 
 ### 💡 Solved.ac
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yjc7241)](https://solved.ac/yjc7241/)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=yjc7241)](https://solved.ac/yjc7241)
 
 </div>
 
