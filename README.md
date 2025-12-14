@@ -60,10 +60,11 @@
 ### 💡 Solved.ac
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=yjc7241)](https://solved.ac/yjc7241)
 
-</div>
-
 ---
 
 ### 🔥 GitHub Stats
 ![JJuchan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjuchan&theme=highcontrast)  
+
+</div>
+
 
