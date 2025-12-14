@@ -4,6 +4,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Chakra+Petch&size=28&pause=1000&color=EF7D1D&width=480&lines=Hi%2C+I%27m+Juchan%2C+a+Backend+Developer+🙋‍♀️)](https://git.io/typing-svg)
 
 ---
+<a href="https://github.com/{jjuchan}/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{jjuchan}"/>
+</a>
+
 
 ## ⛏️ Skills and Tools
 
