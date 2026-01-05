@@ -63,7 +63,11 @@
 ---
 
 ### 🔥 GitHub Stats
-![JJuchan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjuchan&theme=highcontrast)  
+
+![GitHub followers](https://img.shields.io/github/followers/jjuchan)
+![Last Commit](https://img.shields.io/github/last-commit/jjuchan/jjuchan)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jjuchan&theme=github-compact)
 
 </div>
 
