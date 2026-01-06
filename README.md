@@ -63,9 +63,8 @@
 ---
 
 ### 🔥 GitHub Stats
-
 ![GitHub followers](https://img.shields.io/github/followers/jjuchan)
-![Last Commit](https://img.shields.io/github/last-commit/jjuchan/jjuchan)
+![Last Commit](https://img.shields.io/github/last-commit/jjuchan/juchan)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jjuchan&theme=github-compact)
 
