@@ -53,12 +53,7 @@
 ### 🌈 BLOG
 <a href="https://velog.io/@yjc1116/posts">
   <img src="https://img.shields.io/badge/Velog-1EBC8F.svg?style=for-the-badge&logo=velog&logoColor=white" />
-</a>
-
----
-
-### 💡 Solved.ac
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=yjc7241)](https://solved.ac/yjc7241)
+</
 
 ---
 
