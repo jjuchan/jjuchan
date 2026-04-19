@@ -50,19 +50,16 @@
 
 ---
 
-### 🌈 BLOG
+### 🌱 Blog
 <a href="https://velog.io/@yjc1116/posts">
-  <img src="https://img.shields.io/badge/Velog-1EBC8F.svg?style=for-the-badge&logo=velog&logoColor=white" />
-</
+  <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white"/>
+</a>
 
 ---
 
-### 🔥 GitHub Stats
-![GitHub followers](https://img.shields.io/github/followers/jjuchan)
-![Last Commit](https://img.shields.io/github/last-commit/jjuchan/juchan)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jjuchan&theme=github-compact)
-
-</div>
+### 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=jjuchan&show_icons=true&theme=default"/>
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jjuchan"/>
 
 
