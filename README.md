@@ -60,6 +60,6 @@
 ---
 
 ### 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=jjuchan&show_icons=true&theme=default"/>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jjuchan&show_icons=true&theme=transparent)
 </div>
