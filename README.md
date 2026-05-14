@@ -10,13 +10,18 @@
 ## ⛏️ Skills and Tools
 
 ### **Back-End**
-<img src="https://img.shields.io/badge/Java-F44336?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+     width="40" height="40"/>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
 <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 <img src="https://img.shields.io/badge/QueryDSL-4479A1?style=for-the-badge&logo=hibernate&logoColor=white" />
 
+
+
+    
+          
 ---
 
 ### **Database**
