@@ -27,10 +27,9 @@
 </p>
 
 ---
+<h3 align="center">⛏️ Skills and Tools</h3>
 
-## ⛏️ Skills and Tools
-
-### **Back-End**
+#### **Back-End**
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
@@ -38,22 +37,22 @@
 <img src="https://img.shields.io/badge/QueryDSL-4479A1?style=flat-square&logo=hibernate&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_AI-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 
-### **Database**
+#### **Database**
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 
-### **Infra**
+#### **Infra**
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
 
-### **VCS**
+#### **VCS**
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 
-### **API & Dev Tools**
+#### **API & Dev Tools**
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" />
@@ -61,7 +60,7 @@
 
 ---
 
-### 🌱 Contact
+#### 🌱 Contact
 [![Velog](https://img.shields.io/badge/Velog-yjc1116-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@yjc1116)
 [![Gmail](https://img.shields.io/badge/Gmail-sch5229%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sch5229@gmail.com)
 [![Naver](https://img.shields.io/badge/Naver-yjc7241%40naver.com-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:yjc7241@naver.com)
