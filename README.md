@@ -55,10 +55,11 @@
 
 ---
 
-### 🌱 Blog
-<a href="https://velog.io/@yjc1116/posts">
-  <img src="https://img.shields.io/badge/Velog-1EBC8F?style=flat-square&logo=velog&logoColor=white"/>
-</a>
+### 🌱 Contact
+[![Velog](https://img.shields.io/badge/Velog-yjc1116-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@yjc1116)
+[![Gmail](https://img.shields.io/badge/Gmail-sch5229%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sch5229@gmail.com)
+[![Naver](https://img.shields.io/badge/Naver-yjc7241%40naver.com-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:yjc7241@naver.com)
+
 
 ---
 
