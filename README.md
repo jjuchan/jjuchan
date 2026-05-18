@@ -67,5 +67,4 @@
 
 ### 📊 My Stats
 <img align="center" width="400" src="https://github.com/jjuchan/jjuchan/blob/main/github-metrics.svg">
-
 </div>
