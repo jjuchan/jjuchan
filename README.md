@@ -66,5 +66,11 @@
 ---
 
 ### 📊 My Stats
-<img align="center" width="400" src="https://github.com/jjuchan/jjuchan/blob/main/github-metrics.svg">
+<p align="center">
+
+<img width="400" align="top" src="https://raw.githubusercontent.com/jjuchan/jjuchan/main/github-metrics.svg">
+
+<img width="400" align="top" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jjuchan&show_icons=true&theme=algolia">
+
+</p>
 </div>
