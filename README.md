@@ -66,5 +66,5 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jjuchan&show_icons=true&theme=algolia">
+<img src="https://github.com/jjuchan/jjuchan/blob/main/github-metrics.svg" />
 </div>
