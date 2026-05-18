@@ -58,14 +58,14 @@
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
 
----
-
 #### 🌱 Contact
 [![Velog](https://img.shields.io/badge/Velog-yjc1116-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@yjc1116)
 [![Gmail](https://img.shields.io/badge/Gmail-sch5229%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sch5229@gmail.com)
 [![Naver](https://img.shields.io/badge/Naver-yjc7241%40naver.com-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:yjc7241@naver.com)
 
-### 📊 GitHub Stats
+---
+
+### 📊 My Stats
 <img align="center" width="400" src="https://github.com/jjuchan/jjuchan/blob/main/github-metrics.svg">
 
 </div>
