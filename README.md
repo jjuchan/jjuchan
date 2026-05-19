@@ -19,9 +19,9 @@
 <h3 align="center">🏆 Awards & Certification</h3>
 
 <p align="center">
-  천안시장상 (우수상) | 2024 농촌 만들기 아이디어 공모전 <sub>2024.11.29</sub><br>
-  <br>
   인재상 | SW융합클러스터 2.0 디지털 콘텐츠 세종 DX 해커톤 & 2024 멋쟁이사자처럼 중앙 해커톤 <sub>2024.08.03</sub><br>
+  <br>
+  천안시장상 (우수상) | 2024 농촌 만들기 아이디어 공모전 <sub>2024.11.29</sub><br>
   <br>
   정보처리기사 <sub>2024.12</sub>
 </p>
@@ -29,7 +29,7 @@
 ---
 <h3 align="center">⛏️ Skills and Tools</h3>
 
-#### **Back-End**
+#### **BackEnd**
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
@@ -58,7 +58,7 @@
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
 
-#### 🌱 Contact
+#### **Contact**
 [![Velog](https://img.shields.io/badge/Velog-yjc1116-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@yjc1116)
 [![Gmail](https://img.shields.io/badge/Gmail-sch5229%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sch5229@gmail.com)
 [![Naver](https://img.shields.io/badge/Naver-yjc7241%40naver.com-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:yjc7241@naver.com)
