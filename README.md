@@ -8,7 +8,7 @@
 
 ---
 
-<h3 align="center">💻 Experience</h3>
+<h3 align="center"> Experience</h3>
 
 <p align="center">
   멋쟁이사자처럼 12기 아기사자 | <strong>BE</strong> <sub>2024.03 ~ 2024.12</sub><br>
@@ -16,7 +16,7 @@
   프로그래머스 AI 활용 백엔드 데브코스 3기 <sub>2025.06.24 ~ 2025.12.17</sub><br>
 </p>
 
-<h3 align="center">🏆 Awards & Certification</h3>
+<h3 align="center"> Awards & Certification</h3>
 
 <p align="center">
   인재상 | SW융합클러스터 2.0 디지털 콘텐츠 세종 DX 해커톤 & 2024 멋쟁이사자처럼 중앙 해커톤 <sub>2024.08.03</sub><br>
@@ -27,7 +27,7 @@
 </p>
 
 ---
-<h3 align="center">⛏️ Skills and Tools</h3>
+<h3 align="center"> Skills and Tools</h3>
 
 #### **Backend**
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
